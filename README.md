@@ -31,9 +31,9 @@ You can download the testing datasets from the following Baidu Drive link:
 
 🔑 Password: `pfwj `
 
-## Results
+## CSMRI Result
 
-![image-20250512164910204](https://github.com/shibaoshun/GDUNet/blob/main/fig3.png)(https://github.com/shibaoshun/GDUNet/blob/main/fig7.jpg)
+![image-20250512164910204](https://github.com/shibaoshun/GDUNet/blob/main/fig3.png)
 
-
-
+## SVCT reconstruction Result
+![image-20250512164910204](https://github.com/shibaoshun/GDUNet/blob/main/fig7.jpg)
